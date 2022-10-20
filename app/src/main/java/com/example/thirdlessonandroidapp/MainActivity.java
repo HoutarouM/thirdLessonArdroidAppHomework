@@ -24,9 +24,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (checkAnswer()) {
-                    Toast.makeText(MainActivity.this, "Dobra odpowiedz", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, R.string.good_answer, Toast.LENGTH_SHORT).show();
                 } else {
-                    Toast.makeText(MainActivity.this, "Zla odpowiedz", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, R.string.bad_answer, Toast.LENGTH_SHORT).show();
                 }
             }
         });
