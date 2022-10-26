@@ -1,9 +1,17 @@
 <resources>
     <string name="app_name">ThirdLessonAndroidApp</string>
-    <string name="Question">Jaki szczyt jest widoczny na zdjeciu?</string>
-    <string name="everest">Everest</string>
-    <string name="tatry">Tatry</string>
-    <string name="wielka_racza">Wielka Racza</string>
+    <!--    pytanie 1 -->
+    <string name="q1">Jaki szczyt jest widoczny na zdjeciu?</string>
+    <string name="q1a1">Everest</string>
+    <string name="q1a2">Tatry</string>
+    <string name="q1a3">Wielka Racza</string>
+
+    <!--    pytanie 2 -->
+    <string name="q2">Test?</string>
+    <string name="q2a1">Everest</string>
+    <string name="q2a2">Tatry</string>
+    <string name="q2a3">Wielka Racza</string>
+
     <string name="check_answer">Sprawdz odpowiedz</string>
     <string name="hint">podpowiedz</string>
     <string name="image_description">Gora</string>
